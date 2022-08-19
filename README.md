@@ -14,3 +14,5 @@ Objectives
 2. Register Softwares into TDIS Ontosoft
 3. Register Data sources.
     a. Identify Data Source Criteria (Attributes)
+
+Access the TDIS OntoSoft Portal: https://tdis.ontosoft.org/#home
