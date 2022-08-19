@@ -1,0 +1,9 @@
+Data Class,Data Theme,Dataset Name,Dataset Source,Dataset Location,Temporal (Range),Analysis Method (Model Name),Update Frequency,File Name or File Type?
+Atmospheric,Climate & Weather,Monthly Summaries of the Global Historical Climatology Network - Daily (GHCN-D),NOAA,https://data.noaa.gov/onestop/collections/details/f1285996-49d8-4b2a-be69-b8f0cd5ba307,,,,
+Atmospheric,Climate & Weather,Climatological Data National Summary,NOAA,https://data.noaa.gov/onestop/collections/details/34c3e79b-aa17-4402-b1a2-b40d953bfb6d,,,,
+Built Environment,Infrastructure,Inline Structures (Bridges),txdot,https://services.arcgis.com/KTcxiTD9dsQw4r7Z/arcgis/rest/services/TxDOT_Bridges/FeatureServer/0/query?outFields=*&where=1%3D1,2015- Present,,,rest api
+Natural Environment,Hydrography,Stream Flow,NOAA,https://water.weather.gov/ahps2/hydrograph_to_xml.php?gage=<gauge initials>&output=tabular,72 hrs,,15 min,csv
+Natural Environment,Topography,Terrain,USGS,https://data.tnris.org/8ea19b45-7a66-4e95-9833-f9e89611d106/resources/fema06-140cm-coastal_2995304_dem.zip,,,,zip (raster)
+Built Environment,Land Cover/Use/Zoning,Land Use Land Cover,USGS,https://s3-us-west-2.amazonaws.com/mrlc/NLCD_landcover_2019_release_all_files_20210604.zip,3 years,,3 years,zip (raster)
+Atmospheric,Climate & Weather,Atlas 14 Precipitation,NOAA,https://hdsc.nws.noaa.gov/pub/hdsc/data/tx/tx<year>yr<day>dal.zip,,,n/a,
+,,Lateral Structures,,,,,,
